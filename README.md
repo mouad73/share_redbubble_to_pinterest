@@ -66,6 +66,3 @@ PRODUCT_LINKS = [
 # Pinterest board name
 BOARD_NAME = "Unique Designs & Gifts on Redbubble"
 
-# Additional Notes
-Caution: Use this script responsibly to avoid violating Pinterest's terms of service.
-Customization: You can customize the pin titles and descriptions generation logic based on your requirements.
